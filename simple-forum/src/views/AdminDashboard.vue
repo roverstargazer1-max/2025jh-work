@@ -113,6 +113,8 @@ onMounted(() => {
 
 <style scoped>
 .admin-dashboard-container {
+  display: flex;
+  flex-direction: column; 
   width: 960px;
   margin: 2rem auto;
   padding: 2rem;
