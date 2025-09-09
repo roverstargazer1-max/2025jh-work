@@ -118,6 +118,7 @@ onMounted(() => {
   padding: 2rem;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   background-color: #f4f6f8;
+  max-height: 90vh;
 }
 
 .dashboard-header {
